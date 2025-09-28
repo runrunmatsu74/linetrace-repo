@@ -1,5 +1,4 @@
 name: Manual
-: sample
 on:
   workflow_dispatch:                        # 手動実行イベント
     inputs:
